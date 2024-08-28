@@ -1,6 +1,6 @@
-# Musical Arrangements
+# squarrange
 
-Arrangements I wrote.
+Musical arrangements I wrote.
 
 ## License
 
