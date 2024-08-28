@@ -16,7 +16,7 @@ Each project has a unique identifier, that being the name of the original source
 each identifier, there are version numbers. Within each of those version numbers are the relevant exported files.
 
 For example, `first-rate-town` version 0.2.1 is located at
-[`/export/first-rate-town/v0.2.1`]('/export/first-rate-town/v0.2.1`). A full listing is given below.
+[`/export/first-rate-town/v0.2.1`](/export/first-rate-town/v0.2.1). A full listing is given below.
 
 ## Listing
 
