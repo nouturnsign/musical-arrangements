@@ -4,3 +4,6 @@
 [submodule "source/rudolph"]
 	path = source/rudolph
 	url = https://github.com/nouturnsign/rudolph
+[submodule "source/deck-the-halls"]
+	path = source/deck-the-halls
+	url = https://github.com/nouturnsign/deck-the-halls
