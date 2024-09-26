@@ -1,3 +1,6 @@
 [submodule "source/first-rate-town"]
 	path = source/first-rate-town
 	url = https://github.com/nouturnsign/first-rate-town
+[submodule "source/rudolph"]
+	path = source/rudolph
+	url = https://github.com/nouturnsign/rudolph
