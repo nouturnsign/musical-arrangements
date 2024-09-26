@@ -22,6 +22,7 @@ For example, `first-rate-town` version 0.2.2 is located at
 
 ## Listing
 
-| Song Title      | Original Performer | Identifier                                 |
-| --------------- | ------------------ | ------------------------------------------ |
-| First Rate Town | Good Kid           | [first-rate-town](/export/first-rate-town) |
+| Song Title                     | Original Performer | Identifier                                 |
+| ------------------------------ | ------------------ | ------------------------------------------ |
+| First Rate Town                | Good Kid           | [first-rate-town](/export/first-rate-town) |
+| Rudolph the Red-Nosed Reindeer | Gene Autry         | [rudolph](/export/rudolph)                 |
