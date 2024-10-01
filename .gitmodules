@@ -7,3 +7,6 @@
 [submodule "source/deck-the-halls"]
 	path = source/deck-the-halls
 	url = https://github.com/nouturnsign/deck-the-halls
+[submodule "source/joy-to-the-world"]
+	path = source/joy-to-the-world
+	url = https://github.com/nouturnsign/joy-to-the-world.git
