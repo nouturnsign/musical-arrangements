@@ -22,8 +22,9 @@ For example, `first-rate-town` version 0.2.2 is located at
 
 ## Listing
 
-| Song Title                     | Original Performer | Identifier                                 |
-| ------------------------------ | ------------------ | ------------------------------------------ |
-| First Rate Town                | Good Kid           | [first-rate-town](/export/first-rate-town) |
-| Rudolph, the Red-Nosed Reindeer | Gene Autry         | [rudolph](/export/rudolph)                 |
-| Deck the Halls | Traditional | [deck-the-halls](/export/deck-the-halls) | 
+| Song Title                      | Original Performer | Identifier                                   |
+| ------------------------------- | ------------------ | -------------------------------------------- |
+| First Rate Town                 | Good Kid           | [first-rate-town](/export/first-rate-town)   |
+| Rudolph, the Red-Nosed Reindeer | Gene Autry         | [rudolph](/export/rudolph)                   |
+| Deck the Halls                  | Traditional        | [deck-the-halls](/export/deck-the-halls)     |
+| Joy to the World                | Isaac Watts        | [joy-to-the-world](/export/joy-to-the-world) |
