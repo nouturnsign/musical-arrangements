@@ -10,3 +10,6 @@
 [submodule "source/joy-to-the-world"]
 	path = source/joy-to-the-world
 	url = https://github.com/nouturnsign/joy-to-the-world.git
+[submodule "source/jingle-bells"]
+	path = source/jingle-bells
+	url = https://github.com/nouturnsign/jingle-bells.git
